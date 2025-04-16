@@ -87,7 +87,7 @@ With Excel’s native pivot tables and slicers, users can filter financial data 
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](screenshots/financial_dashboard.png)
+![Dashboard Screenshot](assets/finacial_dashboard.PNG)
 
 ---
 
